@@ -15,7 +15,7 @@ public class pessoas {
 		for(int i = 0; i < 5; i++) {
 			//receber os nomes
 			for(int j = 0; j < 1; j++) {
-				pessoas[i][j] = Integer.parseInt(JOptionPane.showInputDialog("Digite o nome da pessoa " +  (i+1)));
+				//pessoas[i][j] = Integer.parseInt(JOptionPane.showInputDialog("Digite o nome da pessoa " +  (i+1)));
 				//pessoas[i][j] = Integer.parseInt(JOptionPane.showInputDialog("Digite o nome da pessoa " +  (i+1)));
 			}//j
 		}//i
